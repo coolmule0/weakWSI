@@ -1,0 +1,6 @@
+[submodule "submodules/TransPath"]
+	path = submodules/TransPath
+	url = https://github.com/Xiyue-Wang/TransPath.git
+[submodule "TransPath"]
+	path = TransPath
+	url = https://github.com/Xiyue-Wang/TransPath.git
